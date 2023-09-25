@@ -5,6 +5,8 @@ date: '2023-09-24 13:25:00 0000'
 categories: ['api', 'ruby on rails']
 ---
 
+![https://www.ldttechnology.com/services/mobile-app-web-development](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*jFaUnXNB6RXKAXCBfFm7Sg.jpeg "Transform app")
+
 Since android OS and iOS releases, mobile development has taken a position in user experiences. After continuing the old monolith rails project and the founder having new funding, sometimes requirements get involved to make a mobile app for users.
 
 As a full-stack web developer, you need to choose the best way to implement it. Luckily today there are several options :
